@@ -5,3 +5,5 @@ broken_english/
 .vscode/
 API_token.txt
 pyvenv/
+venv/
+env/
